@@ -6,7 +6,7 @@
 
 ## LIST PROGRES MINGGU - 3
 
-### 1. Reset Configuration Router - 2
+### 1. Reset Configuration Router - 9
 
 Reset Konfigurasi dilakukan dengan menggunakan Winbox melalui Wine
 Akses fitur di bagian sidebar pada menu System -> pilih Reset Configuration -> centang No Default Configuration -> klik Reset Configuration.
